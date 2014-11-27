@@ -1,9 +1,9 @@
 [
   {
-    "remote": "omnirom",
-    "repository": "android_kernel_samsung_smdk4412",
+    "remote": "github",
+    "repository": "dschensen/android_kernel_samsung_smdk4412",
     "target_path": "kernel/samsung/smdk4412",
-    "revision": "android-5.0"
+    "revision": "omni-5.0"
   },
   {
     "remote": "omnirom",
